@@ -1,0 +1,13 @@
+Wybor tekstury klawisze od 0 do 7
+strzalki poruszanie sie po planszy
+zapis S
+Reset - wraca do poczatkowej pozycji R
+
+plik wyjsciowy to Level.map
+
+Aby zmienic rozmiar planszy nalezy zmienic parametry w pliku Level.map.
+Pierwszy to wysokosc drugi to szerokosc planszy
+
+W grze The World of Boro
+
+Gotowy plik wrzucic do foldery maps a nastepnie w pliku konfiguracja/mapy.txt dodac miejsce mapy.
